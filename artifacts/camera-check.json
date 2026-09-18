@@ -1,0 +1,13 @@
+{
+  "camera": "A4 tech USB2.0 Camera",
+  "processed_frames": 23,
+  "format": "640 \u00d7 480 \u00b7 s\u00fcr\u00fcc\u00fc 60 FPS",
+  "error": "",
+  "input_enabled": false,
+  "worker_stopped": true,
+  "inference_fps": 4.5,
+  "capture_fps": 4.5,
+  "latency_ms": 15.0,
+  "detected_hands": 0,
+  "detected_pose": false
+}

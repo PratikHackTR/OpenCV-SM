@@ -1,0 +1,14 @@
+{
+  "integrity": {
+    "rid": 8192,
+    "name": "Medium",
+    "error": 0
+  },
+  "error": "Receiver lost foreground; down event skipped.",
+  "accepted": 0,
+  "events": [],
+  "mouse_events": [],
+  "relative_motion_received": false,
+  "passed": false,
+  "game_tested": false
+}

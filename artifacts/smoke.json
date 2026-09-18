@@ -1,0 +1,13 @@
+{
+  "camera_names": [
+    "OBS Virtual Camera"
+  ],
+  "input_structure_size": 40,
+  "foreground_readable": true,
+  "blank_hands": 0,
+  "blank_poses": 0,
+  "ui_camera_count": 2,
+  "ipcam_selection_refresh_validation": true,
+  "no_calibration_wizard_or_region_editor": true,
+  "ui_closed": true
+}
